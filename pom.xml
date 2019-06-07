@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Release 1</name>
-        <url>http://52.3.160.175:8082/repository/demo</url>
+        <url>http://52.3.160.175:8082/repository/demo/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-       <url>http://52.3.160.175:8082/repository/demoSnap</url>
+       <url>http://52.3.160.175:8082/repository/demoSnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
